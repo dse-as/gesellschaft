@@ -1,6 +1,5 @@
 <!-- Annemarie Schwarzenbach-Gesellschaft (work in progress) -->
 
-
 # Annemarie Schwarzenbach-Gesellschaft 
 <img align="left" img width="160" alt="grafik" src="https://github.com/user-attachments/assets/793a7718-004c-4a40-a60a-657a35585f05" /> Die Annemarie Schwarzenbach-Gesellschaft ist ein Schweizer Verein mit dem Zweck, die Vermittlung des Schaffens von Annemarie Schwarzenbach (Briefe, Texte und Fotografien) ideell und finanziell zu unterstützen. Es handelt sich namentlich um das Projekt „Annemarie Schwarzenbach. Die Gesamtausgabe. Hybride Edition der Texte, Briefe und Fotografien», dessen Teilprojekt ["Annemarie Schwarzenbach: Digitale Edition der Kleinen Formen und Briefe"](www.annemarie-schwarzenbach.ch) seit 2024 bereits vom Schweizer Nationalfonds als [SNF-Forschungsprojekt](https://data.snf.ch/grants/grant/10000500) untersützt wird.  
 
