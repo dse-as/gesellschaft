@@ -1,4 +1,4 @@
-# Simple workflow for deploying README.md to GitHub Pages
+# Simple workflow for deploying README.md to GitHub Pages 
 name: Deploy README to Pages
 
 on:
