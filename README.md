@@ -4,6 +4,7 @@
 <img align="left" img width="140" alt="grafik" src="https://github.com/user-attachments/assets/793a7718-004c-4a40-a60a-657a35585f05" /> Die Annemarie Schwarzenbach-Gesellschaft ist ein Schweizer Verein mit Sitz in Bern. Sie hat den Zweck, die Vermittlung des Schaffens von Annemarie Schwarzenbach (Briefe, Texte und Fotografien) ideell und finanziell voranzutreiben. Hierzu realisiert sie im Zeitraum  2024-20232 das Projekt „Annemarie Schwarzenbach. Die Gesamtausgabe. Hybride Edition der Texte, Briefe und Fotografien», dessen Teilprojekt ["Annemarie Schwarzenbach: Digitale Edition der Kleinen Formen und Briefe"](https://annemarie-schwarzenbach.ch) seit 2024 vom Schweizer Nationalfonds als [SNF-Forschungsprojekt](https://data.snf.ch/grants/grant/10000500) untersützt wird.  
 
 ![Annemarie Schwarzenbach in Malans, 1938. Fotografie v. Anita Forrer (1901-1996).](https://upload.wikimedia.org/wikipedia/commons/f/f8/SchwarzenbachForrer1938.jpg)
+
 Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:innen des 20. Jahrhunderts, hat ein faszinierendes, aus literarischen Gross- und Kleinformen, journalistischen Arbeiten und Fotografien bestehendes Werk hinterlassen. Dieses ist heute unter vielfältigen Gesichtspunkten hochaktuell, jedoch nicht in seiner Gesamtheit greifbar. Die Gesamtausgabe macht auch bisher verstreut oder gar nicht edierte Texte unter Berücksichtigung der Fotografien in einer digitalen Edition und in einer Studienausgabe zugänglich. 
 
 ## Vorstand 
