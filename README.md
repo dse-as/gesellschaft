@@ -29,7 +29,7 @@ Daneben besitzt er einen Leistungsausweis in der Forschung zur Gegenwartsliterat
 
 Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
 
-### Förderer
+### Förderer der Annemarie Schwarzenbach Gesamtausgabe 
  
 Burgergemeinde Bern
 
