@@ -31,9 +31,10 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
 
 ### Förderer der Annemarie Schwarzenbach Gesamtausgabe 
  
-Burgergemeinde Bern
+![grafik](https://github.com/user-attachments/assets/13291725-c7c0-460a-86d2-70b3e02bbc65)
 
-![grafik](https://github.com/user-attachments/assets/6b9c8519-ec13-4216-b2b2-3e3067ec47dd)
+
+
 
 
 
