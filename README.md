@@ -28,3 +28,11 @@ Daneben besitzt er einen Leistungsausweis in der Forschung zur Gegenwartsliterat
 <img align="left" img width="70" alt="grafik" src="https://github.com/user-attachments/assets/5e8254ef-8988-4364-aeb1-5b2db2d39f11" /> [**Moritz Wagner**](https://www.nb.admin.ch/snl/de/home/ueber-uns/sla/benutzungsla/mitarbeitende.html), Wissenschaftlicher Mitarbeiter des Schweizerischen Literaturarchivs, Bern, Kurator des dortigen Schwarzenbach-Nachlasses, profunder Kenner des Werkes und Spezialist für die Literatur der 1930er und 40er Jahre. Er hat wichtige Ausgaben von Schweizer Autoren herausgegeben (Ulrich Becher, Christoph Geiser). Er ist Mitherausgeber im SNF-Projekt. 
 
 Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
+
+### Förderer
+ 
+Burgergemeinde Bern
+
+![grafik](https://github.com/user-attachments/assets/c7232eee-1599-4dae-b969-000d04016182)
+
+
