@@ -33,6 +33,7 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
  
 Burgergemeinde Bern
 
-![grafik](https://github.com/user-attachments/assets/c7232eee-1599-4dae-b969-000d04016182)
+![grafik](https://github.com/user-attachments/assets/6b9c8519-ec13-4216-b2b2-3e3067ec47dd)
+
 
 
