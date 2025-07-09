@@ -33,6 +33,9 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
  
 ![grafik](https://github.com/user-attachments/assets/13291725-c7c0-460a-86d2-70b3e02bbc65)
 
+![grafik](https://github.com/user-attachments/assets/020f6b4b-f965-4f28-bf73-930b0fe412d6)
+
+
 
 
 
