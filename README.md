@@ -31,9 +31,12 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
 
 ### Förderer der Annemarie Schwarzenbach Gesamtausgabe 
  
-![grafik](https://github.com/user-attachments/assets/13291725-c7c0-460a-86d2-70b3e02bbc65)
+<img src="https://github.com/user-attachments/assets/13291725-c7c0-460a-86d2-70b3e02bbc65" alt="logo-bgb" width="400"/>
+<br/>
+---
+<br/>
+<img src="https://github.com/user-attachments/assets/020f6b4b-f965-4f28-bf73-930b0fe412d6" alt="logo-snf" width="400"/>
 
-![grafik](https://github.com/user-attachments/assets/020f6b4b-f965-4f28-bf73-930b0fe412d6)
 
 
 
