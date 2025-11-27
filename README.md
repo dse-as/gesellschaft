@@ -36,6 +36,10 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
 ---
 <br/>
 <img src="https://github.com/user-attachments/assets/020f6b4b-f965-4f28-bf73-930b0fe412d6" alt="logo-snf" width="400"/>
+<br/>
+---
+<br/>
+<img width="2480" height="236" alt="grafik" src="https://github.com/user-attachments/assets/5dd7104c-978d-46c2-a40a-54165d2829d4" />
 
 
 
