@@ -39,7 +39,8 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
 <br/>
 ---
 <br/>
-<img  alt="logo-göhner-stiftung" src="https://github.com/user-attachments/assets/5dd7104c-978d-46c2-a40a-54165d2829d4" />
+<img src="https://github.com/user-attachments/assets/87b4fa8d-66c2-494d-a1f3-2ae26e5e057c" alt="logo-ernst-göhner-stiftung" width="400"/>
+
 
 
 
