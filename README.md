@@ -45,7 +45,7 @@ Kontakt: <gesellschaft@annemarie-schwarzenbach.ch>
 <br/>
 ---
 <br/>
-<img src="https://github.com/user-attachments/assets/df019d0d-ea53-42e0-af8d-6eb73ae16220" alt="logo-avr" width="400" />
+<img width="722" height="314" alt="grafik" src="https://github.com/user-attachments/assets/e02b0544-46d0-43bb-ae70-ee00c3db1716" width="400" />
 <br/>
 
 
